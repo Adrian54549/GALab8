@@ -1,2 +1,2 @@
 # GALab8
-GitHub Actions - przegląd podstawowych rozwiązańn
+GitHub Actions - przegląd podstawowych rozwiązańnff
